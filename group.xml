@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="regrission group">
+    <test name="regrission test">
+
+        <groups>
+            <run>
+                <include name="regrission"/>
+                <exclude name="broken"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="sessionTestNG.Assertions"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="regression suite">
+    <test name="regression test on chrome">
+        <classes>
+            <class name="sessionTestNG.Dependencies">
+                <methods>
+                    <include name="registerTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="regression test on edge">
+        <classes>
+            <class name="sessionTestNG.Dependencies">
+                <methods>
+                    <include name="registerTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

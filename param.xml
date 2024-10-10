@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="parametrized suite">
+
+    <listeners>
+
+        <listener class-name="Lesteners.ITest"/>
+    </listeners>
+    <parameter name="username" value="admin"/>
+    <parameter name="password" value="admin"/>
+
+    <test name="parametrized test on chrome">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="sessionTestNG.ParameterClass"></class>
+        </classes>
+    </test>
+</suite>

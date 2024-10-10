@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5693a377-5000-479d-8ee3-6e08a14d601b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegressionSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/param.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smokeSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesteners/IInvokedMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesteners/ISuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesteners/ITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sessionTestNG/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sessionTestNG/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sessionTestNG/Dependencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sessionTestNG/ParameterClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mVFWkkt7gl4DunBYRXLlsqjePk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG./home/osama/IdeaProjects/TestNGCourse/TestRunner.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./home/osama/IdeaProjects/TestNGCourse/group.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./home/osama/IdeaProjects/TestNGCourse/param.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./home/osama/IdeaProjects/TestNGCourse/smokeSuite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./home/osama/IdeaProjects/TestNGCourse/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Annotations.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Assertions.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Assertions.hardInValidLoginTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Assertions.inValidLoginTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Assertions.validLoginTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Dependencies.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ParameterClass.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SessionOne.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SessionOne.testCaseTwo.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/osama/IdeaProjects/TestNGCourse&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/osama/IdeaProjects/TestNGCourse/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./home/osama/IdeaProjects/TestNGCourse/group.xml">
+    <configuration name="Assertions.hardInValidLoginTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sessionTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sessionTestNG" />
+      <option name="MAIN_CLASS_NAME" value="sessionTestNG.Assertions" />
+      <option name="METHOD_NAME" value="hardInValidLoginTestCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assertions.validLoginTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sessionTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sessionTestNG" />
+      <option name="MAIN_CLASS_NAME" value="sessionTestNG.Assertions" />
+      <option name="METHOD_NAME" value="validLoginTestCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/osama/IdeaProjects/TestNGCourse/group.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGCourse" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/group.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/osama/IdeaProjects/TestNGCourse/param.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGCourse" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/param.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/osama/IdeaProjects/TestNGCourse/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGCourse" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/osama/IdeaProjects/TestNGCourse/param.xml" />
+        <item itemvalue="TestNG.Assertions.hardInValidLoginTestCase" />
+        <item itemvalue="TestNG.Assertions.validLoginTestCase" />
+        <item itemvalue="TestNG./home/osama/IdeaProjects/TestNGCourse/group.xml" />
+        <item itemvalue="TestNG./home/osama/IdeaProjects/TestNGCourse/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5693a377-5000-479d-8ee3-6e08a14d601b" name="Changes" comment="" />
+      <created>1727153874684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727153874684</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
